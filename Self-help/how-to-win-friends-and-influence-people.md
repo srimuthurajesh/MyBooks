@@ -12,11 +12,12 @@
       4. Dont talk about ur achievements, that will make them feel small and unimportant
       5. Dont tell what you need, instead tell how could you help them
 ### 2. Build Relationship
-1. Become genuinely interest in other people
-        1. To make friends we requires time, unselfishness, thoughtfulness
-3. Smile
-        1. Smile worth a million
-        2. Smile brings us dollars, many dollars.   
+1. Become genuinely interest in other people  
+      1. To make friends we requires time, unselfishness, thoughtfulness
+3. Smile  
+      1. Smile worth a million, but cost nothing.
+      2. Smile brings us dollars, many dollars.
+      3. Smile leads to friendship   
 5. Remember person name
 6. Be a good listener, encourage others to speak
 7. Talk in terms of other person interest
