@@ -63,12 +63,17 @@
     
 ### 4. Be a Leader  
 1. Begin with praise and honest appreciation
-     1. It is easier to 
-3. Call attention of people mistake indirectly
-4. Talk about your own mistake before critize others
-5. Ask questions instead of direct order
-6. Let the other person save face
-7. Praise every slightest improvement
-8. Give other person a fine reputation
-9. Use encouragement
-10. Make other person happy about doing thing you suggest     
+     1. It is easier to listen unpleasant things after praise
+3. Criticize - not be hatred for it
+     1. Dont use 'but' after a praise, instead tell next time you can do it
+5. Talk about your own mistake before critize others
+6. Ask questions instead of direct order
+     1. give suggestion not order
+8. Let the other person save face
+     1. tell like thy lack of experience not lack of ability. if thy make mistake
+     2. Hurting a man is crime
+10. Praise every slightest improvement
+11. Give other person a fine reputation
+     1. make them leader to get good attitude
+13. Use encouragement
+14. Make other person happy about doing thing you suggest     
