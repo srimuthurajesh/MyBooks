@@ -1,2 +1,3 @@
 # MyBooks
-[Self Help](https://srimuthurajesh.github.io/MyBooks/Self-help/Readme.html)
+### Genres
+- [Self Help](https://srimuthurajesh.github.io/MyBooks/Self-help)
