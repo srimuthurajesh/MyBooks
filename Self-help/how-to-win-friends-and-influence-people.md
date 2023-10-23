@@ -10,7 +10,7 @@
       2. Dont preach them, just show them
       3. Before speak, ask yourself, how can i make this person want to do it? so that will stop us from rushing into a situation headlessly
       4. Dont talk about ur achievements, that will make them feel small and unimportant
-      5. Dont tell what you need, instead tell how could you help them
+      5. Dont tell what you need, instead tell how could you help them  
 ### 2. Build Relationship
 1. Become genuinely interest in other people  
       1. To make friends we requires time, unselfishness, thoughtfulness
