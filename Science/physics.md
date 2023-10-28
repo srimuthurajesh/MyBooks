@@ -23,3 +23,9 @@
 
 ## Atom
 JJ thompson, rutherfold, niel bohr invented bohr atomic model
+
+## Types of Forces
+1. Strong force
+2. Weak force
+3. Electro magnetic force
+4. Gravity(not included)
