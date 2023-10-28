@@ -6,10 +6,16 @@
 - Study of small ie.atom
 
 - Bozeman statistics - he studies about gas molecules
-- Max Plank father of quantum physics
-- Einstein found ligh is an particle, using photo electric effect
-- later Einstein, concluded light has duality nature both wave particle
-
+- Max Plank father of quantum physics - he told resonated energy is quantised
+- Einstein found ligh is an particle, using photo electric effect - he told light is quantised
+    -  he states light is photon which is chunk of energy
+    - later Einstein, concluded light has duality nature both wave particle
+- Bohr told atom is quantised
+- Bose Einstein statistics
+- Debroglie states electron is also a wave(matter wave)
+- Schrodinger derives function for waves, but not exact value about the wave function
+- max born intrepreted that wave function value will be probability
+- Heisenberg student of max born, matrix method uncertainity principle. so nothing is deterministic, nothing predictable    
 
 ## Atom
-JJ thompson, rutherfold
+JJ thompson, rutherfold, niel bohr invented bohr atomic model
