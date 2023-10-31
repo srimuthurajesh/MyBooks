@@ -22,7 +22,9 @@
 - if ball bends, when elevator accelerator
 
 ## Atom
-JJ thompson, rutherfold, niel bohr invented bohr atomic model
+1. JJ thompson -  Cathode ray - plum cake pudding model
+2. rutherfold - gold foil experiment
+3. niel bohr invented bohr atomic model
 
 ## Types of Forces
 1. Strong force
